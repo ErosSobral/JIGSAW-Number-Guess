@@ -1,4 +1,4 @@
 ## portuguese note:
-  #-adivinhe o nùmero com JigSaw :D
+  -adivinhe o nùmero com JigSaw :D
 ## english note:
-  #-guess the number with JigSaw :D
+  -guess the number with JigSaw :D
